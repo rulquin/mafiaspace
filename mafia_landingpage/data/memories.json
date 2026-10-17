@@ -1,0 +1,117 @@
+{
+  "_note": "DEMO DATA — Replace with actual short messages from circle members.",
+  "memories": [
+    {
+      "id": 1,
+      "message": "Deadline mode ON. Tapi kopi jangan sampai habis.",
+      "author": "Ardi",
+      "date": "2023-11-20",
+      "rotation": -3
+    },
+    {
+      "id": 2,
+      "message": "Dulu belum kenal, sekarang malah sering nongkrong bareng tiap minggu.",
+      "author": "Nabila",
+      "date": "2024-01-15",
+      "rotation": 2
+    },
+    {
+      "id": 3,
+      "message": "Semoga setelah lulus nanti kita masih sering kumpul dan saling support.",
+      "author": "Fajar",
+      "date": "2024-03-10",
+      "rotation": -2
+    },
+    {
+      "id": 4,
+      "message": "Deadline membuat kita bersatu, bug membuat kita berpasrah.",
+      "author": "Rizky",
+      "date": "2024-04-18",
+      "rotation": 3
+    },
+    {
+      "id": 5,
+      "message": "Satu kata buat angkatan ini: solid parah kalau urusan patungan makanan.",
+      "author": "Dimas",
+      "date": "2024-05-02",
+      "rotation": -1
+    },
+    {
+      "id": 6,
+      "message": "Jangan lupa istirahat kawan-kawan, gelar sarjana penting tapi kewarasan nomor satu.",
+      "author": "Salsabila",
+      "date": "2024-06-12",
+      "rotation": 4
+    },
+    {
+      "id": 7,
+      "message": "Silent coder mode: online jam 2 pagi, offline pas jam kuliah.",
+      "author": "Reza",
+      "date": "2024-07-29",
+      "rotation": -3
+    },
+    {
+      "id": 8,
+      "message": "Slide presentasi keren itu 80% estetika, 20% doa.",
+      "author": "Aulia",
+      "date": "2024-09-08",
+      "rotation": 1
+    },
+    {
+      "id": 9,
+      "message": "Tugas kelompok itu seni mengendalikan emosi dengan tawa.",
+      "author": "Bagas",
+      "date": "2024-10-14",
+      "rotation": -4
+    },
+    {
+      "id": 10,
+      "message": "Pelan-pelan asal jalan terus. Proud of this circle!",
+      "author": "Dinda",
+      "date": "2024-11-05",
+      "rotation": 2
+    },
+    {
+      "id": 11,
+      "message": "Arsitektur sistem aman, masa depan semoga ikut aman sentosa.",
+      "author": "Raka",
+      "date": "2024-12-22",
+      "rotation": -2
+    },
+    {
+      "id": 12,
+      "message": "Bukan cuma soal nilai IPK, tapi cerita di setiap perjuangannya.",
+      "author": "Nadia",
+      "date": "2025-01-30",
+      "rotation": 3
+    },
+    {
+      "id": 13,
+      "message": "Ingat waktu pertama kali praktikum? Kita sama-sama bengong.",
+      "author": "Ardi",
+      "date": "2025-03-14",
+      "rotation": -1
+    },
+    {
+      "id": 14,
+      "message": "Circle ini bukan sekadar teman sekelas, ini keluarga kedua selama kuliah.",
+      "author": "Nabila",
+      "date": "2025-04-05",
+      "rotation": 2
+    },
+    {
+      "id": 15,
+      "message": "Stay hungry, stay hustling, and never forget where we started.",
+      "author": "Fajar",
+      "date": "2025-05-19",
+      "rotation": -3
+    },
+    {
+      "id": 16,
+      "message": "Semoga semua impian anak-anak Mafia tercapai satu per satu.",
+      "author": "Salsabila",
+      "date": "2025-06-01",
+      "rotation": 1
+    }
+  ]
+}
