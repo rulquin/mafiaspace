@@ -1,0 +1,681 @@
+{
+  "_note": "DEMO DATA — Replace with actual member data.",
+  "members": [
+    {
+      "id": 1,
+      "name": "Ardi Pratama",
+      "nickname": "Ardi",
+      "role": "The Mastermind",
+      "birthDate": "2003-09-24",
+      "showAge": true,
+      "bio": "Always thinking three steps ahead. Menemukan celah di setiap masalah sistem dan arsitektur data.",
+      "personality": [
+        "Analytical",
+        "Calm",
+        "Problem Solver"
+      ],
+      "skills": [
+        "Data Analysis",
+        "Database",
+        "Python"
+      ],
+      "quote": "Think first. Build better.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Fajar Ramadhan",
+      "nickname": "Fajar",
+      "role": "The Hustler",
+      "birthDate": "2003-11-14",
+      "showAge": true,
+      "bio": "Deadline dekat? Mode turbo aktif. Eksekutor cepat yang selalu memastikan pekerjaan selesai tepat waktu.",
+      "personality": [
+        "Driven",
+        "Fast",
+        "Action-Oriented"
+      ],
+      "skills": [
+        "Project Mgmt",
+        "Excel",
+        "Scrum"
+      ],
+      "quote": "Sat-set, beres.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Diana Putri",
+      "nickname": "Diana",
+      "role": "The Creative",
+      "birthDate": "1998-09-28",
+      "showAge": true,
+      "bio": "Bikin tugas biasa jadi visual masterpiece. Detail aesthetic dan typography adalah jalan ninjanya.",
+      "personality": [
+        "Artistic",
+        "Detail-Oriented",
+        "Visionary"
+      ],
+      "skills": [
+        "UI Design",
+        "Figma",
+        "Brand Identity"
+      ],
+      "quote": "Make it look good and feel right.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rizky Maulana",
+      "nickname": "Rizky",
+      "role": "The Debugger",
+      "birthDate": "2002-12-08",
+      "showAge": true,
+      "bio": "Dipanggil pas error merah bermunculan di console. Sabar menelusuri bug sampai titik koma terakhir.",
+      "personality": [
+        "Patient",
+        "Logical",
+        "Resilient"
+      ],
+      "skills": [
+        "JavaScript",
+        "SQL",
+        "Debugging"
+      ],
+      "quote": "It works on my laptop, let me fix yours.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dimas Saputra",
+      "nickname": "Dimas",
+      "role": "The Connector",
+      "birthDate": "2003-08-30",
+      "showAge": true,
+      "bio": "Tahu siapa yang harus dihubungi di setiap situasi. Menghubungkan orang, ide, dan peluang kolaborasi.",
+      "personality": [
+        "Social",
+        "Open",
+        "Communicative"
+      ],
+      "skills": [
+        "Networking",
+        "Public Speaking",
+        "Coordination"
+      ],
+      "quote": "Kenalan dulu, urusan belakangan.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Salsabila Putri",
+      "nickname": "Salsa",
+      "role": "The Caretaker",
+      "birthDate": "2004-03-12",
+      "showAge": true,
+      "bio": "Memastikan semua anggota circle tetap makan, sehat, dan tidak stres berlebihan menghadapi semester.",
+      "personality": [
+        "Warm",
+        "Reliable",
+        "Empathetic"
+      ],
+      "skills": [
+        "Documentation",
+        "Research",
+        "Team Care"
+      ],
+      "quote": "Sudah makan belum? Istirahat sebentar yuk.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Reza Akbar",
+      "nickname": "Reza",
+      "role": "The Ghost",
+      "birthDate": "2003-01-22",
+      "showAge": true,
+      "bio": "Jarang terlihat di grup chat, tetapi tiba-tiba submit pull request sempurna 10 menit sebelum deadline.",
+      "personality": [
+        "Quiet",
+        "Sharp",
+        "Independent"
+      ],
+      "skills": [
+        "Cloud Systems",
+        "Python",
+        "Automation"
+      ],
+      "quote": "Present diam-diam, selesai duluan.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Aulia Rahma",
+      "nickname": "Aul",
+      "role": "The Creative",
+      "birthDate": "2004-07-09",
+      "showAge": true,
+      "bio": "Cerita di balik setiap slide dan dokumentasi video. Mengabadikan perjalanan circle dalam bentuk visual.",
+      "personality": [
+        "Expressive",
+        "Curious",
+        "Creative"
+      ],
+      "skills": [
+        "Storytelling",
+        "Video Editing",
+        "Copywriting"
+      ],
+      "quote": "Every slide has a story worth telling.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bagas Pratama",
+      "nickname": "Bagas",
+      "role": "The Chaos Agent",
+      "birthDate": "2003-10-04",
+      "showAge": false,
+      "bio": "Sumber jokes, meme server discord, dan pemecah ketegangan saat revisi dosen mulai bikin pusing.",
+      "personality": [
+        "Humorous",
+        "Spontaneous",
+        "Energetic"
+      ],
+      "skills": [
+        "Meme Curation",
+        "Frontend Basics",
+        "Morale Boosting"
+      ],
+      "quote": "Serius itu nanti, ketawa dulu hari ini.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Dinda Maharani",
+      "nickname": "Dinda",
+      "role": "The Caretaker",
+      "birthDate": "2004-02-17",
+      "showAge": true,
+      "bio": "Pendengar yang baik di segala situasi. Menjaga harmonisasi tim dan menyusun jadwal belajar bersama.",
+      "personality": [
+        "Kind",
+        "Steady",
+        "Attentive"
+      ],
+      "skills": [
+        "Business Analysis",
+        "User Research",
+        "Coordination"
+      ],
+      "quote": "Pelan-pelan, kita jalani bareng-bareng.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Raka Wijaya",
+      "nickname": "Raka",
+      "role": "The Ghost",
+      "birthDate": "2003-04-19",
+      "showAge": true,
+      "bio": "Menghilang dari peradaban saat coding, lalu muncul dengan arsitektur backend yang clean dan rapi.",
+      "personality": [
+        "Independent",
+        "Focused",
+        "Methodical"
+      ],
+      "skills": [
+        "Backend Architecture",
+        "Linux",
+        "DevOps"
+      ],
+      "quote": "Check your terminal. It's done.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Nadia Anindita",
+      "nickname": "Nadia",
+      "role": "The Hustler",
+      "birthDate": "2003-06-25",
+      "showAge": true,
+      "bio": "Multitasking tanpa drama. Kuliah, sertifikasi, dan lomba teknologi dijalani dengan ritme konsisten.",
+      "personality": [
+        "Organized",
+        "Energetic",
+        "Persistent"
+      ],
+      "skills": [
+        "UI Design",
+        "Data Viz",
+        "Product Discovery"
+      ],
+      "quote": "Done is better than perfect, keep shipping.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Naya Putri",
+      "nickname": "Naya",
+      "role": "The Mastermind",
+      "birthDate": "2003-01-18",
+      "showAge": true,
+      "bio": "Selalu punya ide yang logis, terukur, dan siap diadaptasi ke situasi nyata.",
+      "personality": [
+        "Logical",
+        "Focused",
+        "Strategic"
+      ],
+      "skills": [
+        "Research",
+        "Business Analysis",
+        "Systems Thinking"
+      ],
+      "quote": "Solusi yang baik lahir dari pertanyaan yang benar.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Maya Lestari",
+      "nickname": "Maya",
+      "role": "The Creative",
+      "birthDate": "2004-04-10",
+      "showAge": true,
+      "bio": "Mengubah konsep biasa menjadi visual yang mudah diingat dan terasa personal.",
+      "personality": [
+        "Artistic",
+        "Warm",
+        "Original"
+      ],
+      "skills": [
+        "Branding",
+        "Illustration",
+        "Presentation"
+      ],
+      "quote": "Semua ide lebih hidup kalau tampilannya kuat.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Fikri Hidayat",
+      "nickname": "Fikri",
+      "role": "The Connector",
+      "birthDate": "2003-11-02",
+      "showAge": true,
+      "bio": "Bisa menciptakan hubungan baik di antara berbagai orang dan kebutuhan proyek.",
+      "personality": [
+        "Friendly",
+        "Outgoing",
+        "Helpful"
+      ],
+      "skills": [
+        "Networking",
+        "Communication",
+        "Negotiation"
+      ],
+      "quote": "Hubungan yang baik membuat kerja jadi lancar.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Lina Afrida",
+      "nickname": "Lina",
+      "role": "The Caretaker",
+      "birthDate": "2004-08-17",
+      "showAge": true,
+      "bio": "Selalu memastikan suasana tim tetap aman, rileks, dan solid di setiap momen.",
+      "personality": [
+        "Empathetic",
+        "Supportive",
+        "Calm"
+      ],
+      "skills": [
+        "Documentation",
+        "Team Support",
+        "Scheduling"
+      ],
+      "quote": "Biar hati tenang, semuanya bisa berjalan.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Bimo Setiawan",
+      "nickname": "Bimo",
+      "role": "The Hustler",
+      "birthDate": "2002-09-08",
+      "showAge": true,
+      "bio": "Bekerja dengan fokus tinggi, terutama ketika deadline mulai menekan.",
+      "personality": [
+        "Driven",
+        "Bold",
+        "Action-Oriented"
+      ],
+      "skills": [
+        "Excel",
+        "Analytical Thinking",
+        "Execution"
+      ],
+      "quote": "Banyak bicara tidak perlu, hasil yang berbicara.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Citra Ramadhani",
+      "nickname": "Citra",
+      "role": "The Debugger",
+      "birthDate": "2003-03-14",
+      "showAge": true,
+      "bio": "Menyelesaikan masalah teknis dengan cara yang tenang dan terstruktur.",
+      "personality": [
+        "Patient",
+        "Precise",
+        "Sharp"
+      ],
+      "skills": [
+        "Testing",
+        "Debugging",
+        "Quality Assurance"
+      ],
+      "quote": "Semua bug akan terlihat kalau kita sabar mengamatinya.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Yusuf Rahman",
+      "nickname": "Yusuf",
+      "role": "The Ghost",
+      "birthDate": "2003-12-26",
+      "showAge": true,
+      "bio": "Tiba-tiba muncul dengan solusi yang tajam ketika semua orang butuh bantuan.",
+      "personality": [
+        "Quiet",
+        "Smart",
+        "Independent"
+      ],
+      "skills": [
+        "Backend",
+        "Linux",
+        "Automation"
+      ],
+      "quote": "Kamu tidak akan sadar saat saya sudah selesai.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Putri Sari",
+      "nickname": "Putri",
+      "role": "The Mastermind",
+      "birthDate": "2004-02-02",
+      "showAge": true,
+      "bio": "Menyusun ide menjadi arah yang jelas dan prioritas yang bisa dijalankan.",
+      "personality": [
+        "Analytical",
+        "Systematic",
+        "Detailed"
+      ],
+      "skills": [
+        "Planning",
+        "Data Analysis",
+        "Documentation"
+      ],
+      "quote": "Langkah yang tertata menjaga hasil yang stabil.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Rian Kurniawan",
+      "nickname": "Rian",
+      "role": "The Creative",
+      "birthDate": "2003-07-23",
+      "showAge": true,
+      "bio": "Menggubah materinya jadi bentuk yang lebih hidup, jelas, dan mudah dicerna.",
+      "personality": [
+        "Creative",
+        "Expressive",
+        "Curious"
+      ],
+      "skills": [
+        "Design",
+        "Content",
+        "Storytelling"
+      ],
+      "quote": "Kreativitas itu saat ide terasa nyata di mata orang lain.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Gita Melati",
+      "nickname": "Gita",
+      "role": "The Connector",
+      "birthDate": "2004-05-19",
+      "showAge": true,
+      "bio": "Mudah bergaul, cepat menyesuaikan, dan selalu paham kebutuhan orang lain.",
+      "personality": [
+        "Open",
+        "Friendly",
+        "Energetic"
+      ],
+      "skills": [
+        "Coordination",
+        "Relationship Building",
+        "Public Speaking"
+      ],
+      "quote": "Kebersamaan itu dimulai dari percakapan yang hangat.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Naufal Prasetyo",
+      "nickname": "Naufal",
+      "role": "The Chaos Agent",
+      "birthDate": "2003-10-30",
+      "showAge": true,
+      "bio": "Bisa membuat suasana lebih ringan dan lebih hidup tanpa kehilangan fokus kerja.",
+      "personality": [
+        "Humorous",
+        "Energetic",
+        "Flexible"
+      ],
+      "skills": [
+        "Frontend basics",
+        "Team morale",
+        "Presentation"
+      ],
+      "quote": "Ketawa dulu, baru fokus kembali.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Sinta Wulandari",
+      "nickname": "Sinta",
+      "role": "The Caretaker",
+      "birthDate": "2004-06-21",
+      "showAge": true,
+      "bio": "Menjaga ritme kerja tim tetap sehat, teratur, dan tidak terbebani berlebihan.",
+      "personality": [
+        "Warm",
+        "Thoughtful",
+        "Reliable"
+      ],
+      "skills": [
+        "Research",
+        "Team Care",
+        "Organization"
+      ],
+      "quote": "Semua kerja lebih ringan jika dihargai dengan baik.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Aldo Saputra",
+      "nickname": "Aldo",
+      "role": "The Hustler",
+      "birthDate": "2002-11-11",
+      "showAge": true,
+      "bio": "Selalu bergerak cepat, tertata, dan siap mengatasi pekerjaan di menit-menit terakhir.",
+      "personality": [
+        "Driven",
+        "Persistent",
+        "Fast"
+      ],
+      "skills": [
+        "Project Work",
+        "Execution",
+        "Problem Solving"
+      ],
+      "quote": "Yang penting bergerak, lalu perbaiki saat perlu.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Rafiq Husein",
+      "nickname": "Rafiq",
+      "role": "The Debugger",
+      "birthDate": "2003-08-05",
+      "showAge": true,
+      "bio": "Ikut menuntaskan masalah teknis sampai sumbernya jelas dan solusi paling tepat.",
+      "personality": [
+        "Precise",
+        "Calm",
+        "Focused"
+      ],
+      "skills": [
+        "JavaScript",
+        "Testing",
+        "Debugging"
+      ],
+      "quote": "Kesalahan kecil sudah cukup untuk memecah sistem, jadi kita teliti.",
+      "photo": "",
+      "social": {
+        "instagram": "https://www.instagram.com/mafia.insystems/",
+        "linkedin": "#",
+        "github": "#"
+      }
+    }
+  ]
+}
